@@ -7,9 +7,11 @@
 
 
 #cabecalho{
-    background-color: cyan;
-    height: 70px;
-    width: 300px;
+    background-color: cyan;   
+    
+    display: grid;
+    place-items: center center;
+    
 
 
 }
