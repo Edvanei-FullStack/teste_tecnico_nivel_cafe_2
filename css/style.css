@@ -18,3 +18,8 @@
     border-radius: 15px;
     background-color: #00FFA8;
 }
+
+#cabecalho_da_tabela {
+    text-decoration: none;
+}
+
