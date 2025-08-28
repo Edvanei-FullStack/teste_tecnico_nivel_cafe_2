@@ -19,7 +19,17 @@
     background-color: #00FFA8;
 }
 
-#row_cabecalho {
+/* Estilização da Tabela */
+
+.coluna_cabecalho {
+    text-align: center;
 
 }
 
+#hiperlink {
+    font-style: italic;
+}
+
+#a_numero, .coluna_cabecalho, #a_p {
+    font-weight: normal;
+}
