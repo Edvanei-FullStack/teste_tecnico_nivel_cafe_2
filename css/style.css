@@ -7,11 +7,14 @@
 
 
 #cabecalho{
-    background-color: cyan;   
+    background-color: #00ffff;   
     
     display: grid;
     place-items: center center;
     
+}
 
-
+#navbar-example2 {
+    border-radius: 15px;
+    background-color: #00FFA8;
 }
